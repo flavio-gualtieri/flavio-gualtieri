@@ -4,9 +4,9 @@
 - B.A. in Physics from the University of Chicago
 - M.S. in Theoretical Physics from King's College London
 
-My academic focus within theoretical physics centered on quantum field theories, with a particular emphasis on Conformal Field Theory (CFT), analyzing the symmetries and behaviors of systems invariant under conformal transformation.
+My academic interests within theoretical physics pertained to quantum field theories, with a strong emphasis on Conformal Field Theory (CFT), analyzing the symmetries and behaviors of systems invariant under conformal transformations.
 
-In mathematics, I am particularly interested in the structures underpinning principles of theoretical physics. During my graduate studies I was especially focused on Lie Groups and Lie Algebras, having studied the structure theory of Lie Algebras and their applications to physics.
+Within mathematics, I am particularly interested in the abstract structures that underlie the principles of theoretical physics. During my graduate studies I was especially focused on Lie Groups and Lie Algebras, having studied the structure theory of Lie Algebras and their applications to physics.
 
 
 ## KEY REPOSITORIES
