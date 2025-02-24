@@ -16,14 +16,3 @@ Within mathematics, I am particularly interested in the abstract structures that
 - GARCH Model for Portfolio Rebalancing: An implementation of the Generalized Autoregressive Conditional Heteroskedasticity (GARCH) model to optimize portfolio rebalancing strategies based on stochastic volatility forecasts.
 
 - Graduate Thesis on Topological Quantum Error Correction: My master's thesis focused on toric codes, logical operators, and condensation in the context of topological quantum error correction. The work contributes to developing robust methodologies for quantum computing by leveraging topological properties.
-
-
-## HOBBIES
-
-Outside of my professional work, I engage in:
-
-- 🏋️ Weightlifting
-
-- 🥋 Judo
-
-- 🎹 Piano (with a particular interest in Chopin and Tchaikovsky) 
