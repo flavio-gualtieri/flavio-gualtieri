@@ -1,18 +1,14 @@
-## EDUCATION
+# About Me
 
-- B.S. in Mathematics from the University of Chicago
-- B.A. in Physics from the University of Chicago
-- M.S. in Theoretical Physics from King's College London
-
-My academic interests within theoretical physics pertain to quantum field theories, with a strong emphasis on Conformal Field Theory (CFT), analyzing the symmetries and behaviors of systems invariant under conformal transformations.
-
-Within mathematics, I am particularly interested in the abstract structures that underlie the principles of theoretical physics. During my graduate studies I was especially focused on Lie Groups and Lie Algebras, having studied the structure theory of Lie Algebras and their applications to physics.
+I am a PhD student at Queen Mary University of London focusing on applied topology - more specifically, using topological data analysis to study the structure of neural networks. Before starting my PhD, I worked as a Data Scientist at PwC.
 
 
-## KEY REPOSITORIES
+# Education
 
-- Earthquake Clustering: A statistical analysis project modeling the clustering behavior of earthquakes, using spatial and temporal data to uncover underlying patterns.
+B.S. in Mathematics — University of Chicago
 
-- GARCH Model for Portfolio Rebalancing: An implementation of the Generalized Autoregressive Conditional Heteroskedasticity (GARCH) model to optimize portfolio rebalancing strategies based on stochastic volatility forecasts.
+B.A. in Physics — University of Chicago
 
-- Graduate Thesis on Topological Quantum Error Correction: My master's thesis focused on toric codes, logical operators, and condensation in the context of topological quantum error correction. The work contributes to developing robust methodologies for quantum computing by leveraging topological properties.
+M.S. in Theoretical Physics — King’s College London
+
+My academic background spans theoretical physics and pure mathematics. In physics, I have been especially interested in quantum field theory and conformal field theory. In mathematics, my focus has included Lie groups and Lie algebras and their applications to physics.
