@@ -5,10 +5,10 @@ I am a PhD student at Queen Mary University of London focusing on applied topolo
 
 # Education
 
-B.S. in Mathematics — University of Chicago
+B.S. in Mathematics - University of Chicago
 
-B.A. in Physics — University of Chicago
+B.A. in Physics - University of Chicago
 
-M.S. in Theoretical Physics — King’s College London
+M.S. in Theoretical Physics - King’s College London
 
 My academic background spans theoretical physics and pure mathematics. In physics, I have been especially interested in quantum field theory and conformal field theory. In mathematics, my focus has included Lie groups and Lie algebras and their applications to physics.
