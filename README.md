@@ -1,6 +1,6 @@
 # About Me
 
-I am a PhD student at Queen Mary University of London focusing on applied topology - more specifically, using topological data analysis to study the structure of neural networks. Before starting my PhD, I worked as a Data Scientist at PwC.
+I am a PhD student at Queen Mary University of London focusing on applied topology - more specifically, using topological data analysis to study neural networks. Before starting my PhD, I worked as a Data Scientist at PwC.
 
 
 # Education
