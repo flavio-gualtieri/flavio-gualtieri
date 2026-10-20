@@ -11,4 +11,6 @@ B.A. in Physics - University of Chicago
 
 M.S. in Theoretical Physics - King’s College London
 
+Ph.D. in Mathematics (candidate) - Queen Mary University of London
+
 My academic background spans theoretical physics and pure mathematics. In physics, I have been especially interested in quantum field theory and quantum error correction. In mathematics, my focus has included Lie groups and Lie algebras and their applications to particle physics.
