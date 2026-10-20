@@ -5,7 +5,7 @@ I am a PhD student at Queen Mary University of London in the Applied and Stochas
 
 # Education
 
-B.S. in Mathematics & B.A. in Physics - University of Chicago
+B.S. in Mathematics & B.A. in Physics $\cdot$ University of Chicago
 
 M.S. in Theoretical Physics - King’s College London
 
